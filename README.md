@@ -27,8 +27,8 @@ The "LearnFast Phase Analysis" project has implications beyond its technical pro
 In essence, the project exemplifies my mastery of data modeling intricacies, my artistry in crafting informative visuals, and my proficiency in employing Power BI as a conduit for translating data into actionable insights. The "LearnFast Phase Analysis" serves as a testament to the art and science of leveraging data to shape pragmatic and effective business strategies.
 
 ##
-![LearnFast%20Analysis1.png](https://github.com/PrincipX/learnfast-analysis/blob/main/LearnFast%20Analysis1.png)
+![LearnFast Analysis1.png](https://github.com/PrincipX/learnfast-analysis/blob/main/LearnFast%20Analysis1.png)
 ##
-![LearnFast%20Analysis2.png](https://github.com/PrincipX/learnfast-analysis/blob/main/LearnFast%20Analysis2.png)
+![LearnFast Analysis2.png](https://github.com/PrincipX/learnfast-analysis/blob/main/LearnFast%20Analysis2.png)
 ##
-![LearnFast%20Analysis3.png](https://github.com/PrincipX/learnfast-analysis/blob/main/LearnFast%20Analysis3.png)
+![LearnFast Analysis3.png](https://github.com/PrincipX/learnfast-analysis/blob/main/LearnFast%20Analysis3.png)

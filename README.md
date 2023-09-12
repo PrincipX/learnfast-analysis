@@ -8,9 +8,9 @@ At its core, this project aimed to unlock the latent potential of data modeling 
 ## Methodology:
 The "LearnFast Phase Analysis" followed a methodical path:
 
-1. Strategized Data Modeling: The foundational step entailed the design and implementation of a star schema, a refined structure that paved the way for seamless data integration and insightful relationships. This deliberate architecture laid the groundwork for robust analysis.
+1. Strategized Data Modeling: The foundational step entailed the design and implementation of a snowflake schema, a refined structure that paved the way for seamless data integration and insightful relationships. This deliberate architecture laid the groundwork for robust analysis.
 
-2. Visual Intelligence: With the star schema as the backbone, I artfully wielded Power BI's arsenal of visualization tools. My purposeful selection of visual representations, including donut charts, bar charts, and line charts, formed a cohesive narrative to address the project's intricate inquiries.
+2. Visual Intelligence: With the snowflake schema as the backbone, I artfully wielded Power BI's arsenal of visualization tools. My purposeful selection of visual representations, including donut charts, bar charts, and line charts, formed a cohesive narrative to address the project's intricate inquiries.
 
 3. Key Visualizations:
 The project culminated in a gallery of visualizations, each illuminating a distinct facet of the analysis:
@@ -22,7 +22,7 @@ The project culminated in a gallery of visualizations, each illuminating a disti
 - Line Charts: A series of line charts traced trends over time, encompassing orders by group, orders by time, overdue orders by time, and the trajectory of inventory quantity and value. These visuals fostered an understanding of temporal dynamics, essential for operational planning.
 
 ## Impact and Strategic Insights:
-The "LearnFast Phase Analysis" project has implications beyond its technical prowess. The synthesized insights from the star schema and dynamic visuals have the potential to revolutionize decision-making paradigms. By addressing the project's queries, the project opens avenues for strategic interventions, such as tailored customer engagement strategies, efficient order management practices, and optimized inventory control mechanisms.
+The "LearnFast Phase Analysis" project has implications beyond its technical prowess. The synthesized insights from the snowflake schema and dynamic visuals have the potential to revolutionize decision-making paradigms. By addressing the project's queries, the project opens avenues for strategic interventions, such as tailored customer engagement strategies, efficient order management practices, and optimized inventory control mechanisms.
 
 In essence, the project exemplifies my mastery of data modeling intricacies, my artistry in crafting informative visuals, and my proficiency in employing Power BI as a conduit for translating data into actionable insights. The "LearnFast Phase Analysis" serves as a testament to the art and science of leveraging data to shape pragmatic and effective business strategies.
 
